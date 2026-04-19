@@ -19,7 +19,7 @@ Guide for using Hookstate state management library in React applications.
 Install individual skills using the skills CLI:
 
 ```bash
-npx skills add nelwincatalogo/<skill-name> -g
+npx skills add nelwincatalogo/skills -g
 ```
 
 ## License
