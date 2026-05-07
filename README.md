@@ -22,6 +22,20 @@ Install individual skills using the skills CLI:
 npx skills add nelwincatalogo/skills -g
 ```
 
+## Others
+
+```bash
+npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-best-practices -g
+npx skills add https://github.com/emilkowalski/skill --skill emil-design-eng -g
+npx skills add https://github.com/juliusbrussee/caveman --skill caveman -g
+npx skills add https://github.com/vercel-labs/next-skills --skill next-best-practices -g
+npx skills add https://github.com/coreyhaines31/marketingskills --skill seo-audit -g
+npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser -g
+npx skills add https://github.com/anthropics/skills --skill frontend-design -g
+npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max -g
+npx skills add https://github.com/shadcn/ui --skill shadcn -g
+```
+
 ## License
 
 MIT
