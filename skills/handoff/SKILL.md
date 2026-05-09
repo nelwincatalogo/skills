@@ -1,3 +1,8 @@
+---
+name: handoff
+description: Write a handoff document summarizing the current conversation so a fresh agent can continue the work without losing context.
+---
+
 Write a handoff document summarising the current conversation so a fresh agent can continue the work. Save it to a path produced by mktemp -t handoff-XXXXXX.md (read the file before you write to it).
 
 Suggest the skills to be used, if any, by the next session.
