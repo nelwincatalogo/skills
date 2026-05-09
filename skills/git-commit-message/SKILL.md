@@ -18,9 +18,10 @@ Generate commit messages based on code changes following Conventional Commits sp
 Run these git commands to understand the changes:
 
 ```bash
-git status --short
-git --no-pager diff --staged
-git --no-pager diff
+# use rtk if available
+rtk git status --short
+rtk git --no-pager diff --staged
+rtk git --no-pager diff
 ```
 
 ## Step 2: Analyze the Diffs
