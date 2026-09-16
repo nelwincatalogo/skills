@@ -34,6 +34,7 @@ npx skills add https://github.com/ast-grep/agent-skill --skill ast-grep -g
 npx skills add https://github.com/anthropics/skills --skill frontend-design -g
 npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max -g
 npx skills add https://github.com/shadcn/ui --skill shadcn -g
+npx skills add https://github.com/ayghri/i-have-adhd --skill i-have-adhd -g
 ```
 
 ## License
